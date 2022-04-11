@@ -11,7 +11,7 @@ from random import randint
 
 # Enter your pixabay api-key below
 API_KEY = '' # Configure API-KEY, KEYWORD and IMAGE_SAVE_PATH
-KEYWORD = 'Green nature'
+KEYWORD = 'Green nature' # Enter keywords of what image must consist
 IMAGE_SAVE_PATH = getcwd() + '\\CurrentWallpaper.jpg'
 
 # Pixabay API url
